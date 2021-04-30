@@ -24,6 +24,14 @@ module.exports = {
         link: '/repository/'
       },
       {
+        text: 'uniapp开发实践',
+        link: '/uniapp/'
+      },
+      {
+        text: 'TypeScript',
+        link: '/typeScript/'
+      },
+      {
         text: '网站',
         link: '/website/'
       },
