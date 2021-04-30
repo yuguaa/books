@@ -1,3 +1,7 @@
+---
+sidebar: auto
+---
+
 # uniapp 开发实践
 
 ## 1、uniapp 是什么？
