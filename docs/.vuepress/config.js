@@ -32,6 +32,10 @@ module.exports = {
         link: '/typeScript/'
       },
       {
+        text: '杂项',
+        link: '/misc/'
+      },
+      {
         text: '网站',
         link: '/website/'
       },
