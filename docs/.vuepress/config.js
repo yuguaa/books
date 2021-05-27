@@ -24,6 +24,10 @@ module.exports = {
         link: '/repository/'
       },
       {
+        text: 'gitcommit',
+        link: '/gitcommit/'
+      },
+      {
         text: 'uniapp开发实践',
         link: '/uniapp/'
       },
